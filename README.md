@@ -33,3 +33,7 @@ Added for social media sharing:
 A favicon is linked using:  
 ```html
 <link rel="icon" type="image/png" href="favicon.png">
+
+## 🔗 Live Project URL
+[View My CV Online](https://Rpssden.github.io/Single-Page-CV/)
+
