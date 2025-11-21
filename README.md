@@ -1,6 +1,13 @@
-# Single-Page CV  
+# Single-Page CV
+
 A semantic, accessible single-page CV built using **HTML only**.  
 This project demonstrates understanding of semantic HTML, SEO meta tags, Open Graph tags, and favicon usage.
+
+---
+
+## 🔗 Roadmap Project Reference
+This project is based on the roadmap.sh single-page CV project:  
+[Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)
 
 ---
 
@@ -33,8 +40,3 @@ Added for social media sharing:
 A favicon is linked using:  
 ```html
 <link rel="icon" type="image/png" href="favicon.png">
-
-## 🔗 Live Project URL
-Project is linked using:  
-[View My CV Online](https://Rpssden.github.io/Single-Page-CV/)
-
