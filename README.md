@@ -35,5 +35,6 @@ A favicon is linked using:
 <link rel="icon" type="image/png" href="favicon.png">
 
 ## 🔗 Live Project URL
+Project is linked using:  
 [View My CV Online](https://Rpssden.github.io/Single-Page-CV/)
 
